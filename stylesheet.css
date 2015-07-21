@@ -1,0 +1,48 @@
+.jumbotron {
+	background-image: url("http://www.davestravelcorner.com/wp-blog/wp-content/uploads/2006/04/berries-farmers-market.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 350px;
+}
+
+.buyPear {
+	background-color: green;
+	color: #fff;
+	border-radius: 5px;
+	width: 100px;
+
+}
+
+.buyApple {
+	background-color: red;
+	color: #fff;
+	border-radius: 5px;
+	width: 100px;
+}
+
+.buyBanana {
+	background-color: yellow;
+	color: grey;
+	border-radius: 5px;
+	width: 100px;
+}
+
+.buyOrange {
+	background-color: orange;
+	color: #fff;
+	border-radius: 5px;
+	width: 100px;
+}
+
+p {
+	font-size: 25px;
+}
+
+.well {
+   background-color: rgba(245, 245, 245, 0.4);
+}
+
+
+
+
+

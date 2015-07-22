@@ -5,7 +5,7 @@
 	height: 350px;
 }
 
-.buyPear {
+.buyPear, .sellPear {
 	background-color: green;
 	color: #fff;
 	border-radius: 5px;
@@ -13,21 +13,23 @@
 
 }
 
-.buyApple {
+.buyApple, .sellApple {
 	background-color: red;
 	color: #fff;
 	border-radius: 5px;
 	width: 100px;
 }
 
-.buyBanana {
+.buyBanana, .sellBanana {
+
+	
 	background-color: yellow;
 	color: grey;
 	border-radius: 5px;
 	width: 100px;
 }
 
-.buyOrange {
+.buyOrange, .sellOrange {
 	background-color: orange;
 	color: #fff;
 	border-radius: 5px;
@@ -36,10 +38,17 @@
 
 p {
 	font-size: 25px;
+	font-weight: bold;
 }
 
 .well {
    background-color: rgba(245, 245, 245, 0.4);
+}
+
+img {
+	float:left;
+	position: relative;
+	margin: 25px 10px 5px 10px;
 }
 
 
